@@ -1,0 +1,17 @@
+{
+  "name": "nslo-middleware",
+  "version": "0.0.0",
+  "authors": [
+    "Øystein Ø. Olsen <fireneslo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.js",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "./browser/nslo-middleware.js"
+}
